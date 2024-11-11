@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      work
+HostName                       work-eda
+ProcessIdentifier              3338
+ProcessCreationTime_UTC        1713712720
+ProcessCreationTime_Readable   Sun Apr 21 23:18:40 2024 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/work/Desktop/OTA_CMMR_test/CMRR_testbench/constraint/hierDesign.oa.cdslck.dirlck
+TimeEditLocked                 Mon Apr 22 08:36:29 2024 CST
